@@ -1,0 +1,30 @@
+header img{
+    width: 70 px;
+}
+header{
+    border: solid 2 px;
+    padding: 8 px;
+    margin: 6 px;
+    border-radius: 15 px;
+    background-color: rgb (143, 230, 117);
+    border-color: rgb (11, 158, 11)
+}
+.pypsik{
+    border: solid 2 px;
+    border-color: rgb (19, 163, 74);
+}
+body{
+    font-family: sans-serif;
+}
+.kawer{
+    text-align: center;
+}
+.tyt{
+    text-align: center
+}
+.lol{
+     width: 200 px;
+}
+.pokypka{
+     text-align: center;
+}
