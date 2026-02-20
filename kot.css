@@ -9,6 +9,10 @@ header {
     background-color: rgb(143, 230, 117);
     border-color: rgb(11, 158, 11);
 }
+header href {
+    text-decoration: none; /* Убирает нижнюю черту */
+    color: black;          /* Делает текст черным */
+}
 .pypsik {
     border: solid 2px;
     border-color: rgb(19, 163, 74);
