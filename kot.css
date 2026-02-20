@@ -11,7 +11,7 @@ header {
 }
 header href {
     text-decoration: none; /* Убирает нижнюю черту */
-    color: black;          /* Делает текст черным */
+    color: black;         /* Делает текст черным */
 }
 .pypsik {
     border: solid 2px;
@@ -19,6 +19,7 @@ header href {
 }
 body {
     font-family: sans-serif;
+    background-color: #a6ffbe;
 }
 .kawer {
     text-align: center;
